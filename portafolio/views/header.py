@@ -15,7 +15,7 @@ def header(data: Data) -> rx.Component:
             heading(data.name, True),
             heading(data.skill),
             rx.text(
-                rx.icon("map-pin"),
+                # rx.icon("map-pin"),
                 data.location,
                 display="inherit"
             ),
