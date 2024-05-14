@@ -1,128 +1,220 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "title": "CV Rebeca González Balado",
+    "description": "",
+    "image": "",
+    "avatar": "avatar.png",
+    "name": "Rebeca González Balado",
+    "skill": "Desarrolladora back end",
+    "location": "",
     "media": {
-        "email": "neo@metacortex.com",
-        "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "email": "rebeca.gonzalez.balado@gmail.com",
+        "cv": "/data/cv_rebecaGonzalezBalado.pdf",
+        "github": "https://github.com/Lunantisidhe",
+        "likedin": "https://linkedin.com/in/rebeca-gonzalez-balado/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy una desarrolladora con una pasión por el arte y el detalle, que combina la precisión técnica con una chispa de creatividad. Estoy emocionada por embarcarme en este viaje y crear obras digitales que deslumbren.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-java-plain",
+            "name": "Java"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-kotlin-plain",
+            "name": "Kotlin"
+        },
+        {
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
+        },
+        {
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
+        },
+        {
+            "icon": "devicon-mongodb-plain",
+            "name": "MongoDB"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "MySQL"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+        },
+        {
+            "icon": "devicon-spring-plain",
+            "name": "Spring"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML5"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS3"
+        },
+        {
+            "icon": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-github-plain",
+            "name": "GitHub"
+        },
+        {
+            "icon": "devicon-jira-plain",
+            "name": "Jira"
+        },
+        {
+            "icon": "devicon-unity-plain",
+            "name": "Unity"
+        },
+        {
+            "icon": "devicon-maya-plain",
+            "name": "Maya"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "hotel",
+            "title": "Desarrolladora backend",
+            "subtitle": "Imatia",
+            "description": "Desarrollo en equipo de un programa de gestión hotelera empleando Java, Spring Boot y PostgreSQL",
+            "date": "Marzo 2023 - Julio 2023"
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "dice-3",
+            "title": "arcane • insight",
+            "subtitle": "",
+            "description": "Aplicación diseñada para brindar información y herramientas útiles para los aficionados al juego de cartas Magic: The Gathering.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-mongodb-plain",
+                    "name": "MongoDB"
+                }
+            ],
+            "image": "arcaneInsight.png",
+            "url": "",
+            "github": "https://github.com/Lunantisidhe/arcaneInsight_GestorDeColeccionesMTG"
+        },
+        {
+            "icon": "hotel",
+            "title": "JARD Hotels",
+            "subtitle": "",
+            "description": "Aplicación conjunta de gestión de habitaciones de hotel.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-postgresql-plain",
+                    "name": "PostgreSQL"
+                },
+                {
+                    "icon": "devicon-spring-plain",
+                    "name": "Spring"
+                }
+            ],
+            "image": "hotel.png",
+            "url": "",
+            "github": "https://github.com/CampusDual/CD2023-BBE-1-G2_JARDHotels"
+        },
+        {
+            "icon": "building-2",
+            "title": "MyGest",
+            "subtitle": "",
+            "description": "Software de gestión empresarial que gestiona y procesa compras, ventas y nóminas para calcular el IVA y balance mensual y anual de una empresa.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "image": "balance.png",
+            "url": "",
+            "github": "https://github.com/Lunantisidhe/myGest_GestorEmpresarial"
+        },
+        {
+            "icon": "anvil",
+            "title": "GTNH material calculator",
+            "subtitle": "",
+            "description": "Calculadora de materiales para recetas de objetos de GT New Horizons.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "image": "gtnh.png",
+            "url": "",
+            "github": "https://github.com/Lunantisidhe/gtnhMaterialCalculator"
+        },
+        {
+            "icon": "notebook",
+            "title": "AgendaContactos",
+            "subtitle": "",
+            "description": "Agenda con la que podemos almacenar y gestionar los datos de nuestros contactos.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-json-plain",
+                    "name": "JSON"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
-                {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
-                }
-            ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "agenda.png",
+            "url": "",
+            "github": "https://github.com/Lunantisidhe/agendaContactos"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "app-window",
+            "title": "Desarrollo de aplicaciones multiplataforma",
+            "subtitle": "Liceo la Paz",
+            "description": "",
+            "date": "2023",
+            "certificate": ""
         },
         {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "gamepad",
+            "title": "Animación 3D, Juegos y Entornos Interactivos",
+            "subtitle": "CIFP Imaxe e Son",
+            "description": "",
+            "date": "2020",
+            "certificate": ""
         }
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "image": "campusDualTic.png",
+            "title": "Bootcamp desarrollador backend",
+            "description": "Campus Dual TIC - 2023",
+            "url": "https://www.campusdual.com/bootcamp-back-end/"
         },
         {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "udemy.png",
+            "title": "Relational database design",
+            "description": "Udemy - 2023\nID: UC-f7f1663e-67d3-4019-9308-5e2e851704a0",
+            "url": "https://www.udemy.com/course/relational-database-design"
         }
     ]
 }
