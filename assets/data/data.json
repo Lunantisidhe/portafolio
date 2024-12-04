@@ -4,7 +4,7 @@
     "image": "",
     "avatar": "avatar.png",
     "name": "Rebeca González Balado",
-    "skill": "Desarrolladora back end",
+    "skill": "Desarrolladora backend y técnica de ciberseguridad",
     "location": "",
     "media": {
         "email": "rebeca.gonzalez.balado@gmail.com",
@@ -12,8 +12,8 @@
         "github": "https://github.com/Lunantisidhe",
         "likedin": "https://linkedin.com/in/rebeca-gonzalez-balado/"
     },
-    "about": "Soy una desarrolladora con una pasión por el arte y el detalle, que combina la precisión técnica con una chispa de creatividad. Estoy emocionada por embarcarme en este viaje y crear obras digitales que deslumbren.",
-    "technologies": [
+    "about": "Soy una desarrolladora back-end y técnica de ciberseguridad con una pasión por el arte y el detalle, que combina la precisión técnica con una chispa de creatividad. Me esfuerzo continuamente por aprender y mejorar mis habilidades. Estoy comprometida en contribuir a proyectos que no solo desafíen mis capacidades, sino que también me permitan desarrollarme, creando soluciones digitales eficientes y seguras que realmente marquen la diferencia.",
+    "technologies": [TODO
         {
             "icon": "devicon-java-plain",
             "name": "Java"
@@ -90,6 +90,13 @@
             "subtitle": "Imatia",
             "description": "Desarrollo en equipo de un programa de gestión hotelera empleando Java, Spring Boot y PostgreSQL",
             "date": "Marzo 2023 - Julio 2023"
+        },
+        {
+            "icon": "shield-half",
+            "title": "Técnica de ciberseguridad y desarrollo backend",
+            "subtitle": "Mando Conjunto del Ciberespacio (Estado Mayor de la Defensa)",
+            "description": "Desarrollo de aplicaciones de gestión para la academia militar y formación en ciberseguridad centrada en defensa, respuesta e inteligencia (hacking ético)",
+            "date": "Agosto 2024 - Actualidad"
         }
     ],
     "projects": [
@@ -204,6 +211,18 @@
         }
     ],
     "extras": [
+        {
+            "image": "TODO",
+            "title": "Introduction to Cybersecurity",
+            "description": "Cisco - 2024",
+            "url": "https://www.credly.com/badges/fe11ff3e-7168-485f-9405-0a85af2f32d1/linked_in_profile"
+        },
+        {
+            "image": "TODO",
+            "title": "Ciberseguridad avanzada en entornos de las tecnologías de la operación",
+            "description": "Mainjobs - 2024",
+            "url": "TODO"
+        },
         {
             "image": "campusDualTic.png",
             "title": "Bootcamp desarrollador backend",
