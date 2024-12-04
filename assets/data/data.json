@@ -13,7 +13,7 @@
         "likedin": "https://linkedin.com/in/rebeca-gonzalez-balado/"
     },
     "about": "Soy una desarrolladora back-end y técnica de ciberseguridad con una pasión por el arte y el detalle, que combina la precisión técnica con una chispa de creatividad. Me esfuerzo continuamente por aprender y mejorar mis habilidades. Estoy comprometida en contribuir a proyectos que no solo desafíen mis capacidades, sino que también me permitan desarrollarme, creando soluciones digitales eficientes y seguras que realmente marquen la diferencia.",
-    "technologies": [TODO
+    "technologies": [
         {
             "icon": "devicon-java-plain",
             "name": "Java"
@@ -221,7 +221,7 @@
             "image": "mainjobs.png",
             "title": "Ciberseguridad avanzada en entornos de las tecnologías de la operación",
             "description": "Mainjobs - 2024",
-            "url": "TODO"
+            "url": ""
         },
         {
             "image": "campusDualTic.png",
