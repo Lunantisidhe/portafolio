@@ -85,18 +85,18 @@
     ],
     "experience": [
         {
-            "icon": "hotel",
-            "title": "Desarrolladora backend",
-            "subtitle": "Imatia",
-            "description": "Desarrollo en equipo de un programa de gestión hotelera empleando Java, Spring Boot y PostgreSQL",
-            "date": "Marzo 2023 - Julio 2023"
-        },
-        {
             "icon": "shield-half",
             "title": "Técnica de ciberseguridad y desarrollo backend",
             "subtitle": "Mando Conjunto del Ciberespacio (Estado Mayor de la Defensa)",
             "description": "Desarrollo de aplicaciones de gestión para la academia militar y formación en ciberseguridad centrada en defensa, respuesta e inteligencia (hacking ético)",
             "date": "Agosto 2024 - Actualidad"
+        },
+        {
+            "icon": "hotel",
+            "title": "Desarrolladora backend",
+            "subtitle": "Imatia",
+            "description": "Desarrollo en equipo de un programa de gestión hotelera empleando Java, Spring Boot y PostgreSQL",
+            "date": "Marzo 2023 - Julio 2023"
         }
     ],
     "projects": [
