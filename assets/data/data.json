@@ -212,13 +212,13 @@
     ],
     "extras": [
         {
-            "image": "TODO",
+            "image": "introductionToCybersecurity.png",
             "title": "Introduction to Cybersecurity",
             "description": "Cisco - 2024",
             "url": "https://www.credly.com/badges/fe11ff3e-7168-485f-9405-0a85af2f32d1/linked_in_profile"
         },
         {
-            "image": "TODO",
+            "image": "mainjobs.png",
             "title": "Ciberseguridad avanzada en entornos de las tecnologías de la operación",
             "description": "Mainjobs - 2024",
             "url": "TODO"
