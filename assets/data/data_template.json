@@ -1,8 +1,8 @@
 {
     "title": "Título",
     "description": "Descripción",
-    "image": "/img/favicon.ico",
-    "avatar": "/img/favicon.ico",
+    "image": "/favicon.ico",
+    "avatar": "/favicon.ico",
     "name": "Nombre",
     "skill": "Habilidad principal",
     "location": "Localización",
@@ -59,7 +59,7 @@
                     "name": "Tecnología"
                 }
             ],
-            "image": "/img/favicon.ico",
+            "image": "/favicon.ico",
             "url": "https://google.com",
             "github": "https://github.com"
         },
@@ -78,7 +78,7 @@
                     "name": "Tecnología"
                 }
             ],
-            "image": "/img/favicon.ico",
+            "image": "/favicon.ico",
             "url": "https://google.com",
             "github": "https://github.com"
         },
@@ -97,7 +97,7 @@
                     "name": "Tecnología"
                 }
             ],
-            "image": "/img/favicon.ico",
+            "image": "/favicon.ico",
             "url": "https://google.com",
             "github": "https://github.com"
         }
@@ -114,19 +114,19 @@
     ],
     "extras": [
         {
-            "image": "/img/favicon.ico",
+            "image": "/favicon.ico",
             "title": "Título",
             "description": "Descripción",
             "url": ""
         },
         {
-            "image": "/img/favicon.ico",
+            "image": "/favicon.ico",
             "title": "Título",
             "description": "Descripción",
             "url": ""
         },
         {
-            "image": "/img/favicon.ico",
+            "image": "/favicon.ico",
             "title": "Título",
             "description": "Descripción",
             "url": ""
