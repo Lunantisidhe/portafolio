@@ -10,10 +10,9 @@ class Media:
 
 
 class Technology:
-    def __init__(self, icon, name, is_custom=False):
+    def __init__(self, icon, name):
         self.icon = icon
         self.name = name
-        self.is_custom = is_custom
 
 
 class Info:

@@ -16,208 +16,167 @@
     "technologies": [
         {
             "icon": "devicon-java-plain",
-            "name": "Java",
-	    "is_custom": false
+            "name": "Java"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
-	    "is_custom": false
         },
         {
             "icon": "devicon-kotlin-plain",
             "name": "Kotlin"
-	    "is_custom": false
         },
         {
             "icon": "devicon-cplusplus-plain",
             "name": "C++"
-	    "is_custom": false
         },
         {
             "icon": "devicon-csharp-plain",
             "name": "C#"
-	    "is_custom": false
         },
 	{
             "icon": "devicon-c-plain",
             "name": "C"
-	    "is_custom": false
         },
         {
             "icon": "devicon-mongodb-plain",
             "name": "MongoDB"
-	    "is_custom": false
         },
         {
             "icon": "devicon-mysql-plain",
             "name": "MySQL"
-	    "is_custom": false
         },
         {
             "icon": "devicon-postgresql-plain",
             "name": "PostgreSQL"
-	    "is_custom": false
         },
         {
             "icon": "devicon-spring-plain",
             "name": "Spring"
-	    "is_custom": false
         },
         {
             "icon": "devicon-html5-plain",
             "name": "HTML5"
-	    "is_custom": false
         },
         {
             "icon": "devicon-css3-plain",
             "name": "CSS3"
-	    "is_custom": false
         },
         {
             "icon": "devicon-bootstrap-plain",
             "name": "Bootstrap"
-	    "is_custom": false
         },
         {
             "icon": "devicon-git-plain",
             "name": "Git"
-	    "is_custom": false
         },
         {
             "icon": "devicon-github-plain",
             "name": "GitHub"
-	    "is_custom": false
         },
         {
             "icon": "devicon-jira-plain",
             "name": "Jira"
-	    "is_custom": false
         },
         {
             "icon": "img/icon/autopsy.png",
             "name": "Autopsy"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/e3.png",
             "name": "Paraben E3"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/osForensics.png",
             "name": "OSForensics"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/passware.png",
             "name": "Passware"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/safeStamper.png",
             "name": "SafeStamper"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/openStego.png",
             "name": "OpenStego"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/upx.png",
             "name": "UPX"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/virusTotal.png",
             "name": "VirusTotal"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/wireshark.png",
             "name": "Wireshark"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/snort.png",
             "name": "Snort"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/elk.png",
             "name": "ELK Stack"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/securityOnion.png",
             "name": "Security Onion"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/kali.png",
             "name": "Kali Linux"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/parrotSecurity.png",
             "name": "Parrot Security OS"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/metasploit.png",
             "name": "Metasploit"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/nmap.png",
             "name": "Nmap"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/burpSuite.png",
             "name": "Burp Suite"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/hydra.png",
             "name": "Hydra"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/beef.png",
             "name": "BeEF"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/impacket.png",
             "name": "Impacket"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/shodan.png",
             "name": "Shodan"
-	    "is_custom": true
         },
         {
             "icon": "img/icon/aquatone.png",
             "name": "Aquatone"
-	    "is_custom": true
         },
         {
-            "icon": "img/icon/test.ico",
+            "icon": "img/icon/gephi.png",
             "name": "Gephi"
-	    "is_custom": true
         },
 	{
             "icon": "devicon-unity-plain",
             "name": "Unity"
-	    "is_custom": false
         },
         {
             "icon": "devicon-maya-plain",
             "name": "Maya"
-	    "is_custom": false
         }
     ],
     "experience": [

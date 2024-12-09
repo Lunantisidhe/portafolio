@@ -11,10 +11,8 @@ def tech_stack(technologies: list[Technology]) -> rx.Component:
             *[
                 rx.badge(
                     rx.box(
-                        rx.image(src=technology.icon, width="24px") if technology.is_custom else rx.box(
-                            class_name=technology.icon,
-                            font_size="24px"
-                        )
+                        class_name=technology.icon,
+                        font_size="24px"
                     ),
                     rx.text(technology.name),
                     size="2"
