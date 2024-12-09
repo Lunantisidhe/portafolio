@@ -2,7 +2,7 @@
     "title": "CV Rebeca González Balado",
     "description": "",
     "image": "",
-    "avatar": "avatar.png",
+    "avatar": "img/avatar.png",
     "name": "Rebeca González Balado",
     "skill": "Desarrolladora backend y técnica de ciberseguridad",
     "location": "",
@@ -33,6 +33,10 @@
         {
             "icon": "devicon-csharp-plain",
             "name": "C#"
+        },
+	{
+            "icon": "devicon-c-plain",
+            "name": "C"
         },
         {
             "icon": "devicon-mongodb-plain",
@@ -75,6 +79,98 @@
             "name": "Jira"
         },
         {
+            "icon": "img/icon/autopsy.png",
+            "name": "Autopsy"
+        },
+        {
+            "icon": "img/icon/e3.png",
+            "name": "Paraben E3"
+        },
+        {
+            "icon": "img/icon/osForensics.png",
+            "name": "OSForensics"
+        },
+        {
+            "icon": "img/icon/passware.png",
+            "name": "Passware"
+        },
+        {
+            "icon": "img/icon/safeStamper.png",
+            "name": "SafeStamper"
+        },
+        {
+            "icon": "img/icon/openStego.png",
+            "name": "OpenStego"
+        },
+        {
+            "icon": "img/icon/upx.png",
+            "name": "UPX"
+        },
+        {
+            "icon": "img/icon/virusTotal.png",
+            "name": "VirusTotal"
+        },
+        {
+            "icon": "img/icon/wireshark.png",
+            "name": "Wireshark"
+        },
+        {
+            "icon": "img/icon/snort.png",
+            "name": "Snort"
+        },
+        {
+            "icon": "img/icon/elk.png",
+            "name": "ELK Stack"
+        },
+        {
+            "icon": "img/icon/securityOnion.png",
+            "name": "Security Onion"
+        },
+        {
+            "icon": "img/icon/kali.png",
+            "name": "Kali Linux"
+        },
+        {
+            "icon": "img/icon/parrotSecurity.png",
+            "name": "Parrot Security OS"
+        },
+        {
+            "icon": "img/icon/metasploit.png",
+            "name": "Metasploit"
+        },
+        {
+            "icon": "img/icon/nmap.png",
+            "name": "Nmap"
+        },
+        {
+            "icon": "img/icon/burpSuite.png",
+            "name": "Burp Suite"
+        },
+        {
+            "icon": "img/icon/hydra.png",
+            "name": "Hydra"
+        },
+        {
+            "icon": "img/icon/beef.png",
+            "name": "BeEF"
+        },
+        {
+            "icon": "img/icon/impacket.png",
+            "name": "Impacket"
+        },
+        {
+            "icon": "img/icon/shodan.png",
+            "name": "Shodan"
+        },
+        {
+            "icon": "img/icon/aquatone.png",
+            "name": "Aquatone"
+        },
+        {
+            "icon": "img/icon/gephi.png",
+            "name": "Gephi"
+        },
+	{
             "icon": "devicon-unity-plain",
             "name": "Unity"
         },
@@ -115,7 +211,7 @@
                     "name": "MongoDB"
                 }
             ],
-            "image": "arcaneInsight.png",
+            "image": "img/arcaneInsight.png",
             "url": "",
             "github": "https://github.com/Lunantisidhe/arcaneInsight_GestorDeColeccionesMTG"
         },
@@ -138,7 +234,7 @@
                     "name": "Spring"
                 }
             ],
-            "image": "hotel.png",
+            "image": "img/hotel.png",
             "url": "",
             "github": "https://github.com/CampusDual/CD2023-BBE-1-G2_JARDHotels"
         },
@@ -153,7 +249,7 @@
                     "name": "Python"
                 }
             ],
-            "image": "balance.png",
+            "image": "img/balance.png",
             "url": "",
             "github": "https://github.com/Lunantisidhe/myGest_GestorEmpresarial"
         },
@@ -168,7 +264,7 @@
                     "name": "Python"
                 }
             ],
-            "image": "gtnh.png",
+            "image": "img/gtnh.png",
             "url": "",
             "github": "https://github.com/Lunantisidhe/gtnhMaterialCalculator"
         },
@@ -187,7 +283,7 @@
                     "name": "JSON"
                 }
             ],
-            "image": "agenda.png",
+            "image": "img/agenda.png",
             "url": "",
             "github": "https://github.com/Lunantisidhe/agendaContactos"
         }
@@ -212,25 +308,25 @@
     ],
     "extras": [
         {
-            "image": "introductionToCybersecurity.png",
+            "image": "img/introductionToCybersecurity.png",
             "title": "Introduction to Cybersecurity",
             "description": "Cisco - 2024",
             "url": "https://www.credly.com/badges/fe11ff3e-7168-485f-9405-0a85af2f32d1/linked_in_profile"
         },
         {
-            "image": "mainjobs.png",
+            "image": "img/mainjobs.png",
             "title": "Ciberseguridad avanzada en entornos de las tecnologías de la operación",
             "description": "Mainjobs - 2024",
             "url": ""
         },
         {
-            "image": "campusDualTic.png",
+            "image": "img/campusDualTic.png",
             "title": "Bootcamp desarrollador backend",
             "description": "Campus Dual TIC - 2023",
             "url": "https://www.campusdual.com/bootcamp-back-end/"
         },
         {
-            "image": "udemy.png",
+            "image": "img/udemy.png",
             "title": "Relational database design",
             "description": "Udemy - 2023\nID: UC-f7f1663e-67d3-4019-9308-5e2e851704a0",
             "url": "https://www.udemy.com/course/relational-database-design"
