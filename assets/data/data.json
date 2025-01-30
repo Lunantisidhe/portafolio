@@ -79,95 +79,95 @@
             "name": "Jira"
         },
         {
-            "icon": "img/icon/autopsy.png",
+            "icon": "",
             "name": "Autopsy"
         },
         {
-            "icon": "img/icon/e3.png",
+            "icon": "",
             "name": "Paraben E3"
         },
         {
-            "icon": "img/icon/osForensics.png",
+            "icon": "",
             "name": "OSForensics"
         },
         {
-            "icon": "img/icon/passware.png",
+            "icon": "",
             "name": "Passware"
         },
         {
-            "icon": "img/icon/safeStamper.png",
+            "icon": "",
             "name": "SafeStamper"
         },
         {
-            "icon": "img/icon/openStego.png",
+            "icon": "",
             "name": "OpenStego"
         },
         {
-            "icon": "img/icon/upx.png",
+            "icon": "",
             "name": "UPX"
         },
         {
-            "icon": "img/icon/virusTotal.png",
+            "icon": "",
             "name": "VirusTotal"
         },
         {
-            "icon": "img/icon/wireshark.png",
+            "icon": "",
             "name": "Wireshark"
         },
         {
-            "icon": "img/icon/snort.png",
+            "icon": "",
             "name": "Snort"
         },
         {
-            "icon": "img/icon/elk.png",
+            "icon": "",
             "name": "ELK Stack"
         },
         {
-            "icon": "img/icon/securityOnion.png",
+            "icon": "",
             "name": "Security Onion"
         },
         {
-            "icon": "img/icon/kali.png",
+            "icon": "",
             "name": "Kali Linux"
         },
         {
-            "icon": "img/icon/parrotSecurity.png",
+            "icon": "",
             "name": "Parrot Security OS"
         },
         {
-            "icon": "img/icon/metasploit.png",
+            "icon": "",
             "name": "Metasploit"
         },
         {
-            "icon": "img/icon/nmap.png",
+            "icon": "",
             "name": "Nmap"
         },
         {
-            "icon": "img/icon/burpSuite.png",
+            "icon": "",
             "name": "Burp Suite"
         },
         {
-            "icon": "img/icon/hydra.png",
+            "icon": "",
             "name": "Hydra"
         },
         {
-            "icon": "img/icon/beef.png",
+            "icon": "",
             "name": "BeEF"
         },
         {
-            "icon": "img/icon/impacket.png",
+            "icon": "",
             "name": "Impacket"
         },
         {
-            "icon": "img/icon/shodan.png",
+            "icon": "",
             "name": "Shodan"
         },
         {
-            "icon": "img/icon/aquatone.png",
+            "icon": "",
             "name": "Aquatone"
         },
         {
-            "icon": "img/icon/gephi.png",
+            "icon": "",
             "name": "Gephi"
         },
 	{
@@ -308,16 +308,34 @@
     ],
     "extras": [
         {
-            "image": "img/introductionToCybersecurity.png",
-            "title": "Introduction to Cybersecurity",
+            "image": "cbeco.png",
+            "title": "Curso Básico de Especialización en Ciberoperaciones para Suboficiales",
+            "description": "Mando Conjunto del Ciberespacio - 2024",
+            "url": ""
+        },
+        {
+            "image": "img/itSpecialistCybersecurity.png",
+            "title": "IT Specialist - Cybersecurity",
+            "description": "Certiport, Pearson VUE - 2025",
+            "url": "https://www.credly.com/earner/earned/share/fb1f692e-eff2-4b71-bfa6-087d363de577"
+        },
+        {
+            "image": "img/ccst.png",
+            "title": "CCST Cybersecurity",
             "description": "Cisco - 2024",
-            "url": "https://www.credly.com/badges/fe11ff3e-7168-485f-9405-0a85af2f32d1/linked_in_profile"
+            "url": "https://www.credly.com/earner/earned/badge/ced4b6b9-651a-4488-9fc4-2af23c2bb22a"
         },
         {
             "image": "img/mainjobs.png",
             "title": "Ciberseguridad avanzada en entornos de las tecnologías de la operación",
             "description": "Mainjobs - 2024",
             "url": ""
+        },
+        {
+            "image": "img/introductionToCybersecurity.png",
+            "title": "Introduction to Cybersecurity",
+            "description": "Cisco - 2024",
+            "url": "https://www.credly.com/badges/fe11ff3e-7168-485f-9405-0a85af2f32d1"
         },
         {
             "image": "img/campusDualTic.png",
