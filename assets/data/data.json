@@ -38,6 +38,10 @@
             "icon": "devicon-c-plain",
             "name": "C"
         },
+   	{
+            "icon": "devicon-lua-plain",
+            "name": "Lua"
+        },
         {
             "icon": "devicon-mongodb-plain",
             "name": "MongoDB"
