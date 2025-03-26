@@ -42,6 +42,10 @@
             "icon": "devicon-lua-plain",
             "name": "Lua"
         },
+   	{
+            "icon": "",
+            "name": "Q#"
+        },
         {
             "icon": "devicon-mongodb-plain",
             "name": "MongoDB"
@@ -348,10 +352,16 @@
             "url": "https://www.udemy.com/course/relational-database-design"
         },
         {
-            "image": "img/microsoftAi.png",
+            "image": "img/azureQuantum.png",
             "title": "Transformación de la empresa con inteligencia artificial de Microsoft",
             "description": "Microsoft - 2025",
             "url": "https://learn.microsoft.com/es-es/users/rebecagonzlezbalado-6823/achievements/yqypfulr"
+        },
+        {
+            "image": "img/microsoftAi.png",
+            "title": "Introducción a Azure Quantum",
+            "description": "Microsoft - 2025",
+            "url": "https://learn.microsoft.com/es-es/users/rebecagonzlezbalado-6823/achievements/3a879lgh"
         }
     ]
 }
